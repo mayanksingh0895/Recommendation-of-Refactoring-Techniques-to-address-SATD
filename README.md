@@ -94,7 +94,7 @@ If you have installed Jupyter notebook via Python, you can go to Terminal and ty
 Both the processes will open up the Jupyter notebook environment in a default web browser. 
 
 In the application window, there will be a file explorer. Navigate to the respective folder where you have cloned the 
-project and select the **" Movie Recommendation system - DSCI Final Project.ipynb "** to load up the notebook. 
+project and select the **"Recommendation-of-Refactoring-Techniques-to-address-SATD.ipynb"** to load up the notebook. 
 
 #### Google colab
 
